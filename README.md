@@ -18,6 +18,8 @@ A personal field-work memo app — record, trace and export your on-site activit
 
 ## Download / 下载
 
+Latest APK / 最新安装包: [field-session-v1.0.1.apk](./releases/android/v1.0.1/field-session-v1.0.1.apk)
+
 Go to the [**releases/android**](./releases/android) directory to find versioned APK files.
 
 前往 [**releases/android**](./releases/android) 目录下载对应版本的 Android 安装包。

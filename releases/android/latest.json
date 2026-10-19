@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
-  "versionCode": 1,
-  "releaseDate": "2026-03-26",
-  "apkUrl": "v0.1.0/field-session-v0.1.0.apk",
-  "changelog": "Initial release with session control, timeline, photo notes, expense items and report export / 首次发布，包含会话开关、时间线、拍照备注、消费条目和报表导出功能",
-  "minSdkVersion": 21
+  "version": "1.0.1",
+  "versionCode": 4,
+  "releaseDate": "2026-10-19",
+  "apkUrl": "v1.0.1/field-session-v1.0.1.apk",
+  "changelog": "Session recording fixes: no duplicate start location, address after the first permission, reused nearby addresses, session delete cleans photos, PDF opens print / 会话记录修复：开始不再重复定位、首次允许定位后取得地址、附近地址复用、删除会话清理照片、PDF 打开系统打印",
+  "minSdkVersion": 24
 }
